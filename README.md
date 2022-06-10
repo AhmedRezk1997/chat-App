@@ -1,16 +1,14 @@
-# chat_app
+<p float="left">
+ <img src="https://user-images.githubusercontent.com/106794778/173137401-515abbcf-2941-4f49-bd94-0ca14c424e70.jpg" width="500" >
 
-A new Flutter project.
+ <img src="https://user-images.githubusercontent.com/106794778/173138362-c7712de7-ca50-49af-8cd8-51c8d7a6f116.jpg" width="250" >
 
-## Getting Started
+ <img src="https://user-images.githubusercontent.com/106794778/173138945-2229e93d-0bd6-4dfe-87d8-54c287a8f586.jpg" width="250" >
 
-This project is a starting point for a Flutter application.
+<img src="https://user-images.githubusercontent.com/106794778/173139109-d5789113-9e28-4f8f-a36d-f9918c479690.jpg" width="500" >
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://user-images.githubusercontent.com/106794778/173139284-eea88b54-0288-4be3-adc0-15faf57da7c1.jpg" width="500" >
+<img src="https://user-images.githubusercontent.com/106794778/173139484-aca791c0-a3ea-479f-92b0-c58ed0a0d48b.jpg" width="250" >
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</p>
