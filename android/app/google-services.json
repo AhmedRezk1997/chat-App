@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "357541709818",
+    "project_id": "chat-app-12850",
+    "storage_bucket": "chat-app-12850.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357541709818:android:645ae577e1be011624c643",
+        "android_client_info": {
+          "package_name": "com.Rezk.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357541709818-b1h0sicm6udaeloi7q2eesvifk7coatj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4XOBh3_mQS54JqixdIsyJ-ARuR24sKNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357541709818-b1h0sicm6udaeloi7q2eesvifk7coatj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
