@@ -1,14 +1,10 @@
-<p float="left">
- <img src="https://user-images.githubusercontent.com/106794778/173137401-515abbcf-2941-4f49-bd94-0ca14c424e70.jpg" width="250" >
+Welcome to the chat-App it is A flutter App enable people to chat with other used login or create new account and validation them using Authentication and store chat using Firebase.
 
- <img src="https://user-images.githubusercontent.com/106794778/173138362-c7712de7-ca50-49af-8cd8-51c8d7a6f116.jpg" width="250" >
+![1](https://user-images.githubusercontent.com/106794778/173175025-0d139c19-2e80-45da-aee1-d993fd57182c.jpg)
 
- <img src="https://user-images.githubusercontent.com/106794778/173138945-2229e93d-0bd6-4dfe-87d8-54c287a8f586.jpg" width="250" >
+![2](https://user-images.githubusercontent.com/106794778/173175031-3bcbb534-7570-45e8-abfb-550f20790f79.jpg)
+![3](https://user-images.githubusercontent.com/106794778/173175079-73418c14-ca0c-4950-9b6a-fd7f6c5c6716.jpg)
+![4](https://user-images.githubusercontent.com/106794778/173175082-f326a5ff-bc38-4d60-8850-5c810c81ddb7.jpg)
+![5](https://user-images.githubusercontent.com/106794778/173175084-c381b33b-4cac-4907-b65c-5443b4997e74.jpg)
+![6](https://user-images.githubusercontent.com/106794778/173175088-d290bd4b-662d-458f-9bfb-3595372b9429.jpg)
 
-<img src="https://user-images.githubusercontent.com/106794778/173139109-d5789113-9e28-4f8f-a36d-f9918c479690.jpg" width="250" >
-
-<img src="https://user-images.githubusercontent.com/106794778/173139284-eea88b54-0288-4be3-adc0-15faf57da7c1.jpg" width="250" >
-<img src="https://user-images.githubusercontent.com/106794778/173139484-aca791c0-a3ea-479f-92b0-c58ed0a0d48b.jpg" width="250" >
-
-
-</p>
